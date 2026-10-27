@@ -32,7 +32,7 @@ codex login
 **Codex:** copy this folder to `~/.agents/skills/claudex-loop` (or `.agents/skills/claudex-loop` inside a project). Inside Codex the roles flip automatically: Codex plans and `claude -p` audits.
 
 ```bash
-git clone https://github.com/<you>/claudex-loop.git ~/.claude/skills/claudex-loop
+git clone https://github.com/alfredyeo93-ux/claudex-loop.git ~/.claude/skills/claudex-loop
 ```
 
 ## Use
